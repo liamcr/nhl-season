@@ -4,7 +4,7 @@ This script uses data from regular season NHL games to simulate an entire NHL se
 
 ## Usage
 
-First, you must use loadSeasonDataJSON.py to load the necessary regular season data into a json file. You will be asked to provide some information:
+First, you must use `loadSeasonDataJSON.py` to load the necessary regular season data into a json file. You will be asked to provide some information:
 
   * `Filename`: The name of the file that the data will be stored in. Must be .json
   * `Start date`: The date the program will begin collecting data from
@@ -12,7 +12,7 @@ First, you must use loadSeasonDataJSON.py to load the necessary regular season d
 
 For example, if you input 10-01-18 as the start date, and 04-10-19 as the end date, the data the program stores in the file will be based on how the teams performed between October 1st, 2018 and April 10th, 2019.
 
-After that is done, you can simulate a season by using fullNHLSeason.py:
+After that is done, you can simulate a season by using `fullNHLSeason.py`:
 
   `python ./fullNHLSeason.py seasonDataFile.json`
 
