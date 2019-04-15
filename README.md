@@ -18,7 +18,8 @@ After that is done, you can simulate a season by using fullNHLSeason.py:
 
 The output will look something like:
 
-  ```TOR 2 - 4 MTL
+  ```
+  TOR 2 - 4 MTL
   WSH 5 - 3 BOS     
   VAN 3 - 4 CGY     
   SJS 2 - 0 ANA
@@ -54,4 +55,5 @@ The output will look something like:
   TBL 4 - 3 CGY (OT) [TBL 4 - 3 CGY]
   TBL wins the series 4-3
   ------------------------------
-  Stanley Cup Champions: TBL```
+  Stanley Cup Champions: TBL
+  ```
